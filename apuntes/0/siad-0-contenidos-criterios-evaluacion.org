@@ -20,7 +20,7 @@
 + Acceso a Internet fuera del aula
 + Portátil propio (opcional)
   - No se puede usar la red del centro 
-** Libro de referencia
+** Libro de texto
 + Seguridad y Alta Disponibilidad
 + Editorial: Garceta
 + Autor: Alfredo Abad Domingo
@@ -46,7 +46,9 @@
   - No pueden utilizarse para tareas distintas de las encargadas por el profesor
   - Se respetará a otros alumnos
 - Móviles
-  - No. Punto pelota.
+  - No.
+  - Un /smartwatch/ se considera un móvil.
+
 
 ** Averías de los ordenadores
 - Los problemas se comunican al profesor en cuanto se detectan
@@ -83,6 +85,49 @@ La mayor de:
 
 - Las notas pueden calcularse con [[file:calculo-notas/calculo-notas.html?evaluaciones=2][el calculador de notas.]]
 
+
+
+
+* Temario
+** La seguridad informática
+- Seguridad física y lógica
+- Copias de seguridad
+- Seguridad en medios de almacenamiento
+- Criptografía
+
+** Gestión activa de la seguridad
+- Defensa de los sistemas
+- Defensa de la red corporativa
+- Monitorización
+
+** Implantación de la seguridad perimetral
+- Cortafuegos
+- Arquitecturas
+- Dispositivos adicionales
+
+** Instalación y configuración de cortafuegos
+- Tipos de cortafuegos
+- Dispositivos UTM
+- /Iptables/ / /Netfilter/
+
+** Instalación y configuración de servidores /proxy/
+- Tipos de /proxy/
+- Instalación y configuración de /squid/
+- Autentificación 
+- Ficheros de traza (/logs/)
+
+** Acceso remoto con /VPN/
+- Protocolos de /VPN/
+- Creación y configuración de /VPN/
+
+
+
+
+** Alta disponibilidad
+- Definición de /HA/ y caracterísiticas
+- Sistemas tolerantes a fallos
+- /Clusters/
+- Virtualización y /HA/
 
 
 * Contenidos
